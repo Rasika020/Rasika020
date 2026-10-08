@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&section=header&text=Rasika%20Devanhalli&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20%26%20Generative%20AI&descAlignY=58&descSize=18" width="100%" />
+<h1>Rasika Devanhalli</h1>
+
+<h3>Software Engineer · AI & Generative AI</h3>
 
 <a href="https://github.com/Rasika020">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=7C3AED&center=true&vCenter=true&width=760&lines=Building+AI+systems+that+ship.;LLMs+%C2%B7+RAG+%C2%B7+Agentic+AI+%C2%B7+MLOps;Software+engineering+with+an+AI-first+mindset." alt="Typing introduction" />
@@ -196,7 +198,5 @@ I'm interested in **AI engineering, GenAI infrastructure, applied ML, and strong
 <div align="center">
 
 ### *Build. Measure. Improve. Repeat.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer" width="100%" />
 
 </div>
